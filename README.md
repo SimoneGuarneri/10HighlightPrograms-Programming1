@@ -1,7 +1,7 @@
 # 10 Highlight Programs - Programming 1
 
 ### Made using C, in the first class of programming in [CS course at unisa](https://corsi.unisa.it/informatica)        
-#### I decided to upload 10 programs to sum of studied arguments
+#### I decided to upload 10 programs to sum off studied arguments
 
 ### Course arguments
 
